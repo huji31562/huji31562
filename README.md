@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Jenny
+
+[![Jenny's github stats](https://github-readme-stats.vercel.app/api?username=huji31562)](https://github.com/huji31562/github-readme-stats)
+
 
 <!--
 **huji31562/huji31562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
